@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Juliana!
 
-<!--
-**juhsuedde/juhsuedde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building with React, TypeScript, Supabase and more.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: React, TypeScript, Vite, Tailwind CSS
+- **Backend**: Supabase (PostgreSQL, Auth, Realtime)
+- **Auth**: Google OAuth
+- **Deploy**: Vercel
+
+## 🚀 Srojects
+
+### [bolao-copa-2026](https://bolao-copa-2026-ten.vercel.app)
+🏆 PWA for World Cup betting with friends
+- React + TypeScript + Supabase
+- Google OAuth authentication
+- Real-time ranking
+- PWA (installable on iOS/Android)
+
+### [smart-yard-dog-monitor](https://githu.com/juhsuedde/smart-yard-dog-monitor)
+򟐔 �5O dog monitor system with ESP32 + camera
+
+### [meu-portfolio](https://github.com/juhsuedde/meu-portfolio)
+����� My portfolio website
+
+---
+
+📫 Connect: [juhsuedde@gmail.com](mailto:juhsuedde@gmail.com)
