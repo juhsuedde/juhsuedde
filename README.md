@@ -1,1 +1,20 @@
-IyBIaSwgSSdtIEp1bGlhbmEhCgpGdWxsLXN0YWNrIGRldmVsb3BlciBidWlsZGluZyB3aXRoIFJlYWN0LCBUeXBlU2NyaXB0LCBTdXBhYmFzZSBhbmQgbW9yZS4KCiMjIFRlY2ggU3RhY2sKCi0gRnJvbnRlbmQ6IFJlYWN0LCBUeXBlU2NyaXB0LCBWaXRlLCBUYWlsd2luZCBDU1MKLSBCYWNrZW5kOiBTdXBhYmFzZSAoUG9zdGdyZVNRTCwgQXV0aCwgUmVhbHRpbWUpCi0gQXV0aDogR29vZ2xlIE9BdXRoCi0gRGVwbG95OiBWZXJjZWwKCiMjIFByb2plY3RzCgojIyMgW2JvbGFvLWNvcGEtMjAyNl0oaHR0cHM6Ly9ib2xhby1jb3BhLTIwMjYtdGVuLnZlcmNlbC5hcHApClBXQSBmb3IgV29ybGQgQ3VwIGJldHRpbmcgd2l0aCBmcmllbmRzCi0gUmVhY3QgKyBUeXBlU2NyaXB0ICsgU3VwYWJhc2UKLSBHb29nbGUgT0F1dGggYXV0aGVudGljYXRpb24KLSBSZWFsLXRpbWUgcmFua2luZwotIFBXQQoKIyMjIFtzbWFydC15YXJkLWRvZy1tb25pdG9yXShodHRwczovL2dpdGh1Yi5jb20vanVoc3VlZGRlL3NtYXJ0LXlhcmQtZG9nLW1vbml0b3IpCklvVCBkb2cgbW9uaXRvciBzeXN0ZW0gd2l0aCBFU1AzMiArIGNhbWVyYQoKIyMjIFttZXUtcG9ydGZvbGlvXShodHRwczovL2dpdGh1Yi5jb20vanVoc3VlZGRlL21ldS1wb3J0Zm9saW8pCk15IHBvcnRmb2xpbyB3ZWJzaXRlCgotLS0KQ29udGFjdDoganVoc3VlZGRlQGdtYWlsLmNvbQ==
+# Hi, I'm Juliana!
+Full-stack developer building with React, TypeScript, Supabase and more.
+## Tech Stack
+- Frontend: React, TypeScript, Vite, Tailwind CSS
+- Backend: Supabase (PostgreSQL, Auth, Realtime)
+- Auth: Google OAuth
+- Deploy: Vercel
+## Projects
+### [bolao-copa-2026](https://bolao-copa-2026-ten.vercel.app)
+PWA for World Cup betting with friends
+- React + TypeScript + Supabase
+- Google OAuth authentication
+- Real-time ranking
+- PWA
+### [smart-yard-dog-monitor](https://github.com/juhsuedde/smart-yard-dog-monitor)
+IoT dog monitor system with ESP32 + camera
+### [meu-portfolio](https://github.com/juhsuedde/meu-portfolio)
+My portfolio website
+---
+Contact: juhsuedde@gmail.com
